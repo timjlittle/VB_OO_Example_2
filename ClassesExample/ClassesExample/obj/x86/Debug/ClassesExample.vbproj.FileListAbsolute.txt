@@ -1,0 +1,9 @@
+C:\Users\TJL-Dell\Documents\Projects\VB\ClassesExample\ClassesExample\obj\x86\Debug\WindowsApplication1.frmMain.resources
+C:\Users\TJL-Dell\Documents\Projects\VB\ClassesExample\ClassesExample\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\TJL-Dell\Documents\Projects\VB\ClassesExample\ClassesExample\obj\x86\Debug\ClassesExample.vbproj.GenerateResource.Cache
+C:\Users\TJL-Dell\Documents\Projects\VB\ClassesExample\ClassesExample\bin\Debug\ClassesExample.exe
+C:\Users\TJL-Dell\Documents\Projects\VB\ClassesExample\ClassesExample\bin\Debug\ClassesExample.pdb
+C:\Users\TJL-Dell\Documents\Projects\VB\ClassesExample\ClassesExample\bin\Debug\ClassesExample.xml
+C:\Users\TJL-Dell\Documents\Projects\VB\ClassesExample\ClassesExample\obj\x86\Debug\ClassesExample.exe
+C:\Users\TJL-Dell\Documents\Projects\VB\ClassesExample\ClassesExample\obj\x86\Debug\ClassesExample.xml
+C:\Users\TJL-Dell\Documents\Projects\VB\ClassesExample\ClassesExample\obj\x86\Debug\ClassesExample.pdb
